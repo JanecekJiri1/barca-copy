@@ -11,7 +11,7 @@ function Navigation(props) {
     <nav className="navigation">
       <Link className="logoAndNameNav" to="/">
         {/* <h2 className="logoRV">CT</h2> */}
-        <h3>Copywritin Tomečková</h3>
+        <h3>Copywriting Tomečková</h3>
       </Link>
      
 <p></p>

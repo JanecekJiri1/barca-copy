@@ -4,7 +4,7 @@ import React, { useState } from "react";
 
 import Navigation from "./components/navBar/Navigation";
 import Main from "./components/Main";
-// import Wine from "./components/Wine";
+import Referenc from "./components/Referenc";
 import About from "./components/About";
 // import Contact from "./components/Contact";
 
@@ -21,6 +21,7 @@ function App() {
               <Route path="/" element={<Main />} />
          
               <Route path="/About" element={<About />} />
+              <Route path="/Referenc" element={<Referenc />} />
            
             </Routes>
           </div>

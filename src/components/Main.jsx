@@ -1,6 +1,8 @@
 import React from "react";
 import "./main.style.css";
 import AnimatedPage from "./AnimatedPage";
+
+
 // Default introduce page
 
 
